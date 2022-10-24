@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![SoExcited~GIF](https://user-images.githubusercontent.com/76178430/197628258-cd61da08-3a57-4e0d-acfc-6206006844ad.gif)
+<iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
 
 - 🔭 I’m currently working on my Thesis because I have a scholarship in China Petroleum University - Beijing ⛩️
 - 🌱 I’m currently learning Java Script 💛, HTML5 🧡 & CSS 💙 and my favourite Python 🐍 but focusing on Machine-Learning
