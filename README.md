@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![SoExcited~GIF](https://user-images.githubusercontent.com/76178430/197628258-cd61da08-3a57-4e0d-acfc-6206006844ad.gif)
+
 - 🔭 I’m currently working on my Thesis because I have a scholarship in China Petroleum University - Beijing ⛩️
 - 🌱 I’m currently learning Java Script 💛, HTML5 🧡 & CSS 💙 and my favourite Python 🐍 but focusing on Machine-Learning
 - 👯 I’m looking to collaborate on some ideas 💡 about how to improve my web page design 📔 for examples you can recommend me some books 📚 or videos 📽️. 
