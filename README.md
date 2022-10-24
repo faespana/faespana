@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Thesis because I have a scholarship in China Petroleum University - Beijing ⛩️
+- 🌱 I’m currently learning Java Script 💛, HTML5 🧡 & CSS 💙 and my favourite Python 🐍 but focusing on Machine-Learning
+- 👯 I’m looking to collaborate on some ideas 💡 about how to improve my web page design 📔 for examples you can recommend me some books 📚 or videos 📽️. 
+- 💬 Ask me about how to get a scholarship in China ⛩️ or about Academlo ❤️🤍 (Programming bootcamp)
+- 📫 How to reach me: https://www.linkedin.com/in/felipe-espa%C3%B1a-ord%C3%B3%C3%B1ez-38609197/
+- 💛💙❤️ I am Ecuadorian, this is one of the best place to live, specially my city Esmeraldas 🤍💚 
+
 <!--
 **faespana/faespana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
